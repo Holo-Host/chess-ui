@@ -9453,9 +9453,15 @@ PERFORMANCE OF THIS SOFTWARE.
         <div class="column" style="margin: 16px; flex: 1;">
           <span class="title">ELO Ranking</span>
           ${this._loading?this.renderSkeleton():Lt`
-                <mwc-list noninteractive style="margin-right: 8px;">
-                  ${this._eloRanking.value.map((e=>this.renderPlayer(e.agentPubKey,e.elo)))}
-                </mwc-list>
+                <div class="flex-scrollable-parent">
+                  <div class="flex-scrollable-container">
+                    <div class="flex-scrollable-y">
+                      <mwc-list noninteractive style="margin-right: 8px;">
+                        ${this._eloRanking.value.map((e=>this.renderPlayer(e.agentPubKey,e.elo)))}
+                      </mwc-list>
+                    </div>
+                  </div>
+                </div>
               `}
         </div>
       </mwc-card>

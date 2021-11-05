@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://github.com/eyss/elemental-chess/releases/tag/v0.2.3
-HostUrl=https://github-releases.githubusercontent.com/369577324/7eceb9b4-0054-4eda-86fb-3d5e7474e7a8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20211028%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211028T124729Z&X-Amz-Expires=300&X-Amz-Signature=56d2a40ce8f857b902c45f2f4dea5dd129dcbd362525b5b811ef9f55d6f44f1e&X-Amz-SignedHeaders=host&actor_id=16625137&key_id=0&repo_id=369577324&response-content-disposition=attachment%3B%20filename%3Delemental-chess-ui.zip&response-content-type=application%2Foctet-stream
