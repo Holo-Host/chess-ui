@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://github.com/eyss/elemental-chess/releases/tag/v0.2.6-patch-5
-HostUrl=https://objects.githubusercontent.com/github-production-release-asset-2e65be/369577324/1cea0819-538f-4fad-8aa8-00c1fceee935?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220519%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220519T084757Z&X-Amz-Expires=300&X-Amz-Signature=f34093d50b2ac3fd107b70b15f8e07cfa3a0855145c433cd472b3f2d8c76031b&X-Amz-SignedHeaders=host&actor_id=16625137&key_id=0&repo_id=369577324&response-content-disposition=attachment%3B%20filename%3Delemental-chess-ui.holo.zip&response-content-type=application%2Foctet-stream
